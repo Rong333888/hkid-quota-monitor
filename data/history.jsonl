@@ -1240,3 +1240,4 @@
 {"type": "quota_open", "office": "RTK", "date": "2026-09-23", "session": "R", "from": "r", "to": "y", "detected_at": "2026-08-10T12:36:19+08:00", "src": "08/10/2026 12:35:58"}
 {"type": "quota_open", "office": "RTK", "date": "2026-09-24", "session": "R", "from": "r", "to": "y", "detected_at": "2026-08-10T12:36:19+08:00", "src": "08/10/2026 12:35:58"}
 {"type": "quota_open", "office": "RTK", "date": "2026-09-25", "session": "R", "from": "r", "to": "y", "detected_at": "2026-08-10T12:36:19+08:00", "src": "08/10/2026 12:35:58"}
+{"type": "quota_open", "office": "RTK", "date": "2026-09-19", "session": "R", "from": "r", "to": "y", "detected_at": "2026-08-10T12:52:22+08:00", "src": "08/10/2026 12:50:59"}
