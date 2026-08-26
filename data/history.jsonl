@@ -3257,3 +3257,4 @@
 {"type": "quota_open", "office": "YLO", "date": "2026-10-08", "session": "R", "from": "r", "to": "y", "detected_at": "2026-08-26T16:52:20+08:00", "src": "08/26/2026 16:52:18"}
 {"type": "quota_open", "office": "YLO", "date": "2026-10-13", "session": "R", "from": "r", "to": "y", "detected_at": "2026-08-26T16:52:20+08:00", "src": "08/26/2026 16:52:18"}
 {"type": "quota_open", "office": "YLO", "date": "2026-10-17", "session": "R", "from": "r", "to": "y", "detected_at": "2026-08-26T16:52:20+08:00", "src": "08/26/2026 16:52:18"}
+{"type": "quota_open", "office": "FTO", "date": "2026-11-03", "session": "R", "from": "r", "to": "y", "detected_at": "2026-08-26T20:48:27+08:00", "src": "08/26/2026 20:36:17"}
